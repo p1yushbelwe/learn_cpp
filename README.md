@@ -8,3 +8,4 @@ Learning CPP Logs
 7. control_structures: basic control structures like if-else, if-else ladder, switch, learned using age check program
 9. loops: general idea about loops like: for loop, while loop, do while loop along with usecase of break and continue
 10. pointer: what are pointers in cpp and idea about pointer to pointers
+12. arrays_cpp: here learned about arrays in c along with their pointer arithmetic
