@@ -6,3 +6,4 @@ Learning CPP Logs
 5. reference_and_typecasting: Variable scope, reference variable, typecasting methods
 6. constants_manipulators_operator-precendence: How to constants work, manipulator like endl, setw, priority of operator that is operator precedence
 7. control_structures: basic control structures like if-else, if-else ladder, switch, learned using age check program
+9. loops: general idea about loops like: for loop, while loop, do while loop along with usecase of break and continue
