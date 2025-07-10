@@ -37,8 +37,9 @@ int main(){
     int no;
     cout << "Enter the number of digits upto which you want to print fibonacci : " << endl;
     cin >> no;
+    int a = 0;
     for(int i = 0; i <= no; i++){
-        static int a = 0;
+       //  static int a = 0;
         static int b = 1;
         int temp;
         cout << a << endl;
@@ -46,6 +47,7 @@ int main(){
         a = b;
         b = temp + b;
     }
+    cout << "Enter the value of your variable name " << a << endl;
     return 0;
 }
 
