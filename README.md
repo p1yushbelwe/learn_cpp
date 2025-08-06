@@ -10,4 +10,5 @@ Learning CPP Logs
 10. pointer: what are pointers in cpp and idea about pointer to pointers
 12. arrays_cpp: here learned about arrays in c along with their pointer arithmetic
 13. struct_enum_union : basic of structures, union and enum and how they can be used for memory management
-14. OOPS: learned about object oriented programming basics 
+14. OOPS: learned about object oriented programming basics
+15. OOPS: learned about memory allocation in oops and using arrays with classes
